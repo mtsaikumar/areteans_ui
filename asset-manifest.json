@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/areteans-ui/static/css/main.073c9b0a.css",
-    "main.js": "/areteans-ui/static/js/main.950f1bee.js",
-    "static/js/787.28cb0dcd.chunk.js": "/areteans-ui/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/areteans-ui/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/areteans-ui/index.html",
-    "main.073c9b0a.css.map": "/areteans-ui/static/css/main.073c9b0a.css.map",
-    "main.950f1bee.js.map": "/areteans-ui/static/js/main.950f1bee.js.map",
-    "787.28cb0dcd.chunk.js.map": "/areteans-ui/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/areteans-uinpm%20run%20deploy/static/css/main.073c9b0a.css",
+    "main.js": "/areteans-uinpm%20run%20deploy/static/js/main.25e702ae.js",
+    "static/js/787.28cb0dcd.chunk.js": "/areteans-uinpm%20run%20deploy/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/areteans-uinpm%20run%20deploy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/areteans-uinpm%20run%20deploy/index.html",
+    "main.073c9b0a.css.map": "/areteans-uinpm%20run%20deploy/static/css/main.073c9b0a.css.map",
+    "main.25e702ae.js.map": "/areteans-uinpm%20run%20deploy/static/js/main.25e702ae.js.map",
+    "787.28cb0dcd.chunk.js.map": "/areteans-uinpm%20run%20deploy/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.950f1bee.js"
+    "static/js/main.25e702ae.js"
   ]
 }
