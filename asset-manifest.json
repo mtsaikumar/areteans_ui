@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/areteans-ui/static/css/main.073c9b0a.css",
-    "main.js": "/areteans-ui/static/js/main.950f1bee.js",
-    "static/js/787.28cb0dcd.chunk.js": "/areteans-ui/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/areteans-ui/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/areteans-ui/index.html",
-    "main.073c9b0a.css.map": "/areteans-ui/static/css/main.073c9b0a.css.map",
-    "main.950f1bee.js.map": "/areteans-ui/static/js/main.950f1bee.js.map",
-    "787.28cb0dcd.chunk.js.map": "/areteans-ui/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.8e3e5b8c.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.8e3e5b8c.js.map": "/static/js/main.8e3e5b8c.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.950f1bee.js"
+    "static/js/main.8e3e5b8c.js"
   ]
 }
